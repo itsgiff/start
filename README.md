@@ -12,6 +12,8 @@ My startpage, edited from github.com/kencx
 ### Image(s)
 i have included a few vaporwave/retro styled gifs in this repo, you can edit it on the line <b>22</b> in the index.html the ```src="clouds.gif"``` to something like ```src="plane.gif"``` or your own image/gif
 
+get more <li><a href="https://giphy.com/search/vaporwave/">here</a></li>
+
 ### URLs
 you can edit all of the URLs to your desired, starting on line **44** in ```index.html```
 <br> **Example:** <br>
