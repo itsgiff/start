@@ -68,12 +68,12 @@ html, body {
 }
 
 .search-container {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   padding-top: 10px;
-  padding-bottom: 40px;  
+  padding-bottom: 40px;   */
 }
 
 input[type="text"] {
