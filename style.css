@@ -83,7 +83,9 @@ input[type="text"] {
     color: var(--color-fg);
     background: var(--color-bg);
     padding: 5px;
+    align-items: center;
     border: 1px solid var(--color-fg);
+    opacity: 1;
 }
 
 .bookmarks {
