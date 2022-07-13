@@ -72,7 +72,7 @@ html, body {
   flex-direction: column;
   align-items: center;
   padding-top: 10px;
-  padding-bottom: 10px;  
+  padding-bottom: 40px;  
 }
 
 input[type="text"] {
