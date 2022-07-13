@@ -77,7 +77,7 @@ html, body {
 
 input[type="text"] {
     display: block;
-    width: calc(100% - 24px); /*20px [ left & Right ] padding + 4px border [ left & Right ] */ 
+    width: calc(100% - 48px); /*20px [ left & Right ] padding + 4px border [ left & Right ] */ 
     font-size: 16px;
     font-weight: 600;
     color: var(--color-bg);
