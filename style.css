@@ -71,6 +71,7 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   padding-top: 10px;
   padding-bottom: 40px;  
 }
@@ -78,16 +79,15 @@ html, body {
 input[type="text"] {
     display: flex;
     flex-direction: column;
-    width: calc(100% - 96px); /*20px [ left & Right ] padding + 4px border [ left & Right ] */ 
+    width: 50% 
     font-size: 16px;
-    font-weight: 600;
     color: var(--color-fg);
     background: var(--color-bg);
     padding: 5px;
     align-items: center;
     justify-content: center;
-    border: 1px solid var(--color-fg);
-    opacity: 1;
+    border: 0.5px solid var(--color-fg);
+    opacity: 0.75;
 }
 
 .bookmarks {
