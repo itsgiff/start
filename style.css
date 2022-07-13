@@ -76,7 +76,8 @@ html, body {
 }
 
 input[type="text"] {
-    display: block;
+    display: flex;
+    flex-direction: column;
     width: calc(100% - 96px); /*20px [ left & Right ] padding + 4px border [ left & Right ] */ 
     font-size: 16px;
     font-weight: 600;
@@ -84,6 +85,7 @@ input[type="text"] {
     background: var(--color-bg);
     padding: 5px;
     align-items: center;
+    justify-content: center;
     border: 1px solid var(--color-fg);
     opacity: 1;
 }
