@@ -78,11 +78,11 @@ html, body {
 input[type="text"] {
     display: block;
     width: calc(100% - 24px); /*20px [ left & Right ] padding + 4px border [ left & Right ] */ 
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: var(--color-bg);
     background: var(--color-bg);
-    padding: 10px;
+    padding: 5px;
     border: 1px solid var(--color-fg);
 }
 
