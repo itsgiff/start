@@ -67,6 +67,14 @@ html, body {
   width: 180px;
 }
 
+.search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  padding-top: 10px;
+  padding-bottom: 10px;  
+}
+
 .bookmarks {
   display: flex;
   justify-content: center;
