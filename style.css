@@ -79,7 +79,7 @@ html, body {
 input[type="text"] {
     display: flex;
     flex-direction: column;
-    width: 50% 
+    width: 50%; 
     font-size: 16px;
     color: var(--color-fg);
     background: var(--color-bg);
